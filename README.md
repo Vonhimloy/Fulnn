@@ -4,7 +4,7 @@ common command
 ssh-keygen -t rsa –C “vonhimloy@163.com”
 ssh -T git@github.com
 
-git remote add origin https://github.com/tugenhua0707/testgit.git
+git remote add origin https://github.com/vonhimloy/Note.git
 
 git push -u origin master
 git push origin master
