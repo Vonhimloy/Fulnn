@@ -38,3 +38,5 @@ git reflog
 
 git reset --haed HEAD^  /HEAD^^   /~100
 git reset --hard [code]
+
+123123
